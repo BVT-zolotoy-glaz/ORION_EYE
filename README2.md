@@ -1,5 +1,5 @@
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║         SHΔDØW RECON V2 - COMPLETE DEPENDENCY INSTALLATION                    ║
+║              ORION_EYES - COMPLETE DEPENDENCY INSTALLATION                    ║
 ║                    Copy-paste this entire block into terminal                 ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 
