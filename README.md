@@ -3,7 +3,7 @@ SHΔDØW RECON V2 - BlackArch recon framework with NSE evasion, JS secret harves
 
 
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║                    SHΔDØW RECON V2 - USAGE GUIDE                              ║
+║                         ORION_EYES - USAGE GUIDE                              ║
 ║                      How to run the script, not the tools                     ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 
@@ -11,10 +11,7 @@ SHΔDØW RECON V2 - BlackArch recon framework with NSE evasion, JS secret harves
 │ QUICK START                                                                   │
 └───────────────────────────────────────────────────────────────────────────────┘
 
-# Save the script
-nano shadow_recon_v2.py
-# (paste the full script)
-chmod +x shadow_recon_v2.py
+sudo chmod +x shadow_recon_v2.py
 
 # Basic scan
 sudo python3 shadow_recon_v2.py -t target.com -o ./results
